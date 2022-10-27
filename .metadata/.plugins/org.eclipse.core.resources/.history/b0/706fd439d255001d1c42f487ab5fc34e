@@ -1,0 +1,20 @@
+package com.kurly.entity;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+import lombok.Getter;
+import lombok.Setter;
+import lombok.ToString;
+
+@Entity
+@Getter @Setter
+@ToString
+public class Member {
+	
+	@Id
+	@Column(name = "member_id")
+	private Long id;
+	
+}

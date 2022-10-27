@@ -1,0 +1,29 @@
+package com.kurly.entity;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.ManyToOne;
+
+import lombok.Getter;
+import lombok.Setter;
+import lombok.ToString;
+
+@Entity
+@Getter @Setter
+@ToString
+public class Review {
+
+	@Id
+	@Column(name = "review_num")
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	private Long id;
+	
+	
+	private String reviewContent;
+	
+	@ManyToOne	//cascade를 여기에 달아야 하는지
+	private Member member;
+}

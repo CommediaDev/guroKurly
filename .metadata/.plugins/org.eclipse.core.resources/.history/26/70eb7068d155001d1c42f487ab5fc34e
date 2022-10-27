@@ -1,0 +1,7 @@
+package com.kurly.entity;
+
+
+public class BaseEntity {
+
+	
+}

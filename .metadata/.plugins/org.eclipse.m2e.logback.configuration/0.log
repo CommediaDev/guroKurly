@@ -1,0 +1,728 @@
+2022-10-27 17:17:03,986 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-27 17:19:24,005 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kurly:guroKurly:0.0.1-SNAPSHOT @ C:\dev\guroKurly\guroKurly\pom.xml.
+2022-10-27 17:19:25,425 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /guroKurly/src/main/java
+2022-10-27 17:19:25,426 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /guroKurly/src/main/resources
+2022-10-27 17:19:25,432 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /guroKurly/src/main/resources
+2022-10-27 17:19:25,443 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /guroKurly/src/test/java
+2022-10-27 17:19:25,877 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2022-10-27 17:19:25,880 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-27 17:19:26,305 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kurly:guroKurly:0.0.1-SNAPSHOT @ C:\dev\guroKurly\guroKurly\pom.xml.
+2022-10-27 17:19:26,778 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /guroKurly/src/main/java
+2022-10-27 17:19:26,779 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /guroKurly/src/main/resources
+2022-10-27 17:19:26,779 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /guroKurly/src/main/resources
+2022-10-27 17:19:26,780 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /guroKurly/src/test/java
+2022-10-27 17:19:27,436 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-10-27 17:19:28,639 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:19:28,640 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:19:28,643 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:19:28,657 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:19:28,660 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:19:28,660 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:19:28,661 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:19:45,198 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:19:45,198 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:19:45,201 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:19:45,239 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:19:45,246 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:19:45,246 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:19:45,246 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:20:23,545 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:20:23,545 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:20:23,546 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:20:23,551 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:20:23,553 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:20:23,553 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:20:23,554 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:20:48,056 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:20:48,057 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:20:48,057 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:20:48,062 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:20:48,064 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:20:48,064 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:20:48,064 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:20:58,255 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:20:58,255 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:20:58,256 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:20:58,278 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:20:58,285 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:20:58,285 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:20:58,286 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:21:09,847 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:21:09,847 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:21:09,848 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:21:09,853 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:21:09,855 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:21:09,855 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:21:09,855 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:21:20,259 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:21:20,259 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:21:20,261 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:21:20,266 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:21:20,268 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:21:20,269 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:21:20,269 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:21:39,667 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:21:39,667 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:21:39,668 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:21:39,672 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:21:39,675 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:21:39,675 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:21:39,675 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:21:56,664 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:21:56,664 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:21:56,665 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:21:56,676 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:21:56,678 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:21:56,678 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:21:56,678 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:22:01,759 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:22:01,759 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:22:01,760 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:22:01,783 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:22:01,785 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:22:01,785 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:22:01,785 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:23:42,542 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:23:42,542 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:23:42,542 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:23:42,582 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:23:42,584 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:23:42,585 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:23:42,585 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:25:59,528 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:25:59,528 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:25:59,529 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:25:59,533 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:25:59,535 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:25:59,535 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:25:59,535 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:26:30,004 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:26:30,005 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:26:30,005 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:26:30,024 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:26:30,025 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:26:30,025 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:26:30,025 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:27:01,753 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:27:01,753 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:27:01,753 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:27:01,773 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:27:01,774 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:27:01,774 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:27:01,774 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:29:00,957 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:29:00,958 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:29:00,958 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:29:00,967 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:29:00,968 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:29:00,969 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:29:00,969 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:29:41,004 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:29:41,004 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:29:41,005 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:29:41,026 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:29:41,030 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:29:41,030 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:29:41,030 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:29:59,939 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:29:59,939 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:29:59,940 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:29:59,964 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:29:59,965 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:29:59,965 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:29:59,966 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:30:03,132 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:30:03,132 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:30:03,133 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:30:03,154 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:30:03,155 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:30:03,155 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:30:03,155 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:30:06,660 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:30:06,661 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:30:06,661 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:30:06,665 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:30:06,667 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:30:06,667 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:30:06,667 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:30:32,050 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:30:32,050 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:30:32,051 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:30:32,067 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:30:32,070 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:30:32,070 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:30:32,070 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:33:33,183 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:33:33,184 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:33:33,184 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:33:33,203 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:33:33,208 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:33:33,209 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:33:33,209 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:34:20,272 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:34:20,272 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:34:20,272 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:34:20,290 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:34:20,295 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:34:20,295 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:34:20,296 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:34:52,172 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:34:52,172 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:34:52,173 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:34:52,189 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:34:52,194 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:34:52,194 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:34:52,194 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:35:23,151 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:35:23,151 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:35:23,152 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:35:23,169 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:35:23,171 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:35:23,171 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:35:23,171 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:35:50,529 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:35:50,530 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:35:50,530 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:35:50,549 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:35:50,552 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:35:50,552 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:35:50,552 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:40:58,638 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:40:58,639 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:40:58,639 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:40:58,661 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:40:58,663 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:40:58,664 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:40:58,664 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:41:32,453 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:41:32,453 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:41:32,454 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:41:32,473 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:41:32,476 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:41:32,476 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:41:32,476 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:42:37,774 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:42:37,774 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:42:37,775 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:42:37,782 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:42:37,784 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:42:37,784 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:42:37,784 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:43:06,488 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:43:06,489 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:43:06,489 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:43:06,497 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:43:06,499 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:43:06,499 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:43:06,499 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:43:44,467 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:43:44,467 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:43:44,468 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:43:44,476 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:43:44,477 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:43:44,477 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:43:44,477 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:44:15,475 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:44:15,475 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:44:15,476 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:44:15,484 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:44:15,486 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:44:15,486 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:44:15,486 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:44:53,198 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:44:53,198 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:44:53,198 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:44:53,206 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:44:53,208 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:44:53,208 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:44:53,208 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:45:11,361 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:45:11,361 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:45:11,362 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:45:11,384 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:45:11,386 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:45:11,386 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:45:11,386 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:46:02,268 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:46:02,268 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:46:02,269 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:46:02,283 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:46:02,285 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:46:02,285 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:46:02,285 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:46:15,152 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:46:15,153 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:46:15,153 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:46:15,159 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:46:15,164 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:46:15,164 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:46:15,164 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:46:37,508 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:46:37,508 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:46:37,509 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:46:37,513 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:46:37,515 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:46:37,515 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:46:37,515 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:47:55,430 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:47:55,430 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:47:55,430 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:47:55,435 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:47:55,436 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:47:55,436 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:47:55,437 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:48:01,038 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:48:01,039 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:48:01,039 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:48:01,044 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:48:01,045 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:48:01,045 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:48:01,045 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:48:19,124 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:48:19,124 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:48:19,124 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:48:19,128 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:48:19,130 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:48:19,130 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:48:19,130 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:49:05,539 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:49:05,539 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:49:05,540 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:49:05,553 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:49:05,556 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:49:05,556 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:49:05,556 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:49:16,378 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:49:16,378 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:49:16,379 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:49:16,383 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:49:16,385 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:49:16,385 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:49:16,385 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:49:35,570 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:49:35,570 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:49:35,571 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:49:35,576 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:49:35,577 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:49:35,577 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:49:35,577 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:50:18,522 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:50:18,522 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:50:18,522 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:50:18,528 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:50:18,529 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:50:18,529 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:50:18,529 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:50:20,223 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:50:20,223 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:50:20,224 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:50:20,228 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:50:20,229 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:50:20,229 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:50:20,229 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:52:14,915 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:52:14,915 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:52:14,915 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:52:14,920 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:52:14,921 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:52:14,921 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:52:14,921 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:54:49,234 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:54:49,235 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:54:49,235 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:54:49,240 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:54:49,241 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:54:49,241 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:54:49,241 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:55:07,027 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:55:07,027 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:55:07,028 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:55:07,041 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:55:07,042 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:55:07,043 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:55:07,043 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:55:20,190 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:55:20,190 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:55:20,191 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:55:20,195 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:55:20,196 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:55:20,196 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:55:20,196 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:55:36,151 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:55:36,151 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:55:36,151 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:55:36,155 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:55:36,157 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:55:36,157 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:55:36,157 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:56:22,155 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:56:22,155 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:56:22,156 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:56:22,161 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:56:22,162 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:56:22,162 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:56:22,162 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:56:52,625 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:56:52,625 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:56:52,626 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:56:52,631 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:56:52,632 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:56:52,632 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:56:52,633 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:57:52,054 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:57:52,054 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:57:52,054 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:57:52,058 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:57:52,060 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:57:52,060 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:57:52,060 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:58:08,095 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:58:08,095 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:58:08,096 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:58:08,101 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:58:08,102 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:58:08,102 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:58:08,102 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:58:42,920 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:58:42,920 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:58:42,921 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:58:42,948 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:58:42,950 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:58:42,950 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:58:42,950 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:59:06,900 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:59:06,901 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:59:06,901 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:59:06,923 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:59:06,925 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:59:06,925 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:59:06,925 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:59:35,769 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:59:35,769 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:59:35,769 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:59:35,773 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:59:35,775 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:59:35,775 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:59:35,775 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 17:59:56,718 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:59:56,718 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:59:56,719 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 17:59:56,730 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 17:59:56,732 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 17:59:56,732 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 17:59:56,732 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:00:34,981 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:00:34,981 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:00:34,981 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:00:34,997 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:00:35,001 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:00:35,001 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:00:35,001 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:00:48,564 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:00:48,565 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:00:48,566 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:00:48,583 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:00:48,586 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:00:48,586 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:00:48,586 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:01:25,121 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:01:25,121 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:01:25,122 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:01:25,136 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:01:25,138 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:01:25,138 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:01:25,138 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:01:54,728 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:01:54,728 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:01:54,728 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:01:54,742 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:01:54,744 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:01:54,744 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:01:54,744 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:02:26,391 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:02:26,391 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:02:26,391 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:02:26,410 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:02:26,411 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:02:26,412 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:02:26,412 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:03:05,441 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:03:05,441 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:03:05,442 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:03:05,456 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:03:05,458 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:03:05,458 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:03:05,458 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:03:15,769 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:03:15,769 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:03:15,770 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:03:15,788 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:03:15,791 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:03:15,791 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:03:15,791 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:03:20,405 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:03:20,406 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:03:20,406 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:03:20,421 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:03:20,423 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:03:20,423 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:03:20,423 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:04:18,673 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:04:18,674 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:04:18,674 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:04:18,692 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:04:18,694 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:04:18,694 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:04:18,694 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:04:28,268 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:04:28,268 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:04:28,269 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:04:28,273 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:04:28,274 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:04:28,274 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:04:28,274 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:07:04,747 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:07:04,747 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:07:04,748 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:07:04,752 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:07:04,753 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:07:04,753 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:07:04,753 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:07:43,430 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:07:43,431 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:07:43,431 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:07:43,435 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:07:43,437 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:07:43,437 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:07:43,437 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:08:32,550 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:08:32,551 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:08:32,551 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:08:32,555 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:08:32,557 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:08:32,557 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:08:32,557 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:10:10,411 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:10:10,412 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:10:10,412 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:10:10,427 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:10:10,428 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:10:10,429 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:10:10,429 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:11:12,625 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:11:12,625 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:11:12,626 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:11:12,630 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:11:12,631 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:11:12,631 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:11:12,631 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:11:36,823 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:11:36,823 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:11:36,824 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:11:36,828 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:11:36,829 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:11:36,829 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:11:36,829 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:12:44,349 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:12:44,349 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:12:44,350 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:12:44,354 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:12:44,356 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:12:44,356 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:12:44,356 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:13:03,091 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:13:03,091 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:13:03,092 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:13:03,096 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:13:03,097 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:13:03,097 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:13:03,097 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:13:27,114 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:13:27,115 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:13:27,115 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:13:27,139 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:13:27,141 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:13:27,141 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:13:27,141 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:15:26,983 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:15:26,984 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:15:26,984 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:15:26,992 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:15:26,993 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:15:26,993 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:15:26,993 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:17:42,605 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:17:42,605 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:17:42,606 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:17:42,614 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:17:42,616 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:17:42,616 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:17:42,616 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:18:23,122 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:18:23,122 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:18:23,122 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:18:23,130 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:18:23,131 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:18:23,131 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:18:23,131 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:18:32,152 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:18:32,152 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:18:32,153 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:18:32,160 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:18:32,161 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:18:32,161 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:18:32,161 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:18:41,933 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:18:41,933 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:18:41,933 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:18:41,940 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:18:41,942 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:18:41,942 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:18:41,942 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:18:58,275 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:18:58,275 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:18:58,275 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:18:58,283 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:18:58,284 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:18:58,284 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:18:58,284 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:19:18,072 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:19:18,072 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:19:18,073 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:19:18,100 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:19:18,101 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:19:18,101 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:19:18,101 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:19:38,412 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:19:38,413 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:19:38,413 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:19:38,426 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:19:38,427 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:19:38,428 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:19:38,428 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:20:01,332 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:20:01,332 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:20:01,333 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:20:01,339 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:20:01,341 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:20:01,341 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:20:01,341 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:20:17,377 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:20:17,377 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:20:17,377 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:20:17,381 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:20:17,383 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:20:17,383 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:20:17,383 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:21:21,976 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:21:21,976 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:21:21,977 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:21:21,981 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:21:21,982 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:21:21,982 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:21:21,982 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:22:20,216 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:22:20,216 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:22:20,216 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:22:20,220 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:22:20,221 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:22:20,221 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:22:20,221 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:22:38,815 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:22:38,816 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:22:38,816 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:22:38,820 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:22:38,822 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:22:38,822 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:22:38,822 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:23:06,720 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:23:06,720 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:23:06,721 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:23:06,725 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:23:06,727 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:23:06,727 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:23:06,727 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:23:23,145 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:23:23,145 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:23:23,146 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:23:23,161 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:23:23,162 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:23:23,162 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:23:23,162 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:24:01,343 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:24:01,343 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:24:01,344 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:24:01,356 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:24:01,358 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:24:01,358 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:24:01,358 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:24:27,706 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:24:27,707 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:24:27,707 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:24:27,711 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:24:27,713 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:24:27,713 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:24:27,713 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:25:55,360 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:25:55,360 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:25:55,361 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:25:55,365 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:25:55,366 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:25:55,366 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:25:55,366 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:27:42,123 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:27:42,123 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:27:42,124 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:27:42,128 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:27:42,130 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:27:42,130 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:27:42,130 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:27:59,352 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:27:59,352 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:27:59,352 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:27:59,356 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:27:59,357 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:27:59,357 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:27:59,357 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:28:05,947 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:28:05,947 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:28:05,947 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:28:05,952 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:28:05,953 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:28:05,953 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:28:05,953 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:28:08,507 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:28:08,508 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:28:08,508 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:28:08,512 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:28:08,513 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:28:08,513 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:28:08,513 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:28:13,974 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:28:13,974 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:28:13,975 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:28:13,979 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:28:13,980 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:28:13,980 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:28:13,980 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:28:40,882 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:28:40,882 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:28:40,883 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:28:40,888 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:28:40,889 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:28:40,889 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:28:40,889 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:28:55,239 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:28:55,239 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:28:55,240 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:28:55,253 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:28:55,255 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:28:55,255 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:28:55,256 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
+2022-10-27 18:29:08,650 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:29:08,650 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:29:08,650 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-27 18:29:08,655 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-27 18:29:08,657 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-27 18:29:08,657 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-27 18:29:08,657 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\guroKurly\guroKurly\src\test\resources
